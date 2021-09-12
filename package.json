@@ -1,0 +1,8 @@
+{
+  "name": "easyAdmin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/imlidongliang/easyAdmin.git",
+  "author": "imlidongliang <823037364@qq.com>",
+  "license": "MIT"
+}
